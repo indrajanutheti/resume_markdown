@@ -43,5 +43,3 @@
 - Playing Games <br>
 ###**projects**
 - Job Satisfaction
-
-- 
